@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrikant Dandge</h1>
-<h3 align="center">A passionate Python Developer.</h3>
+<h3 align="center">A passionate Full Stack Developer and Data Science Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishrikant&label=Profile%20views&color=0e75b6&style=flat" alt="shrishrikant" /> </p>
 
@@ -7,15 +7,15 @@
                                                  
 - 🔭 I’m currently working on [Student Attendance Marking System](https://shrishrikant.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 🤝 I’m looking for **Intenships**
 
-- 👨‍💻 All of my projects are available at [http://shri-dev.gq/](http://shri-dev.gq/)
+- 👨‍💻 All of my projects are available at [(https://shrikant-d.web.app/)](https://shrikant-d.web.app/)
 
-- 📫 How to reach me **shri.debugger@gmail.com**
+- 📫 How to reach me **shrikantdandge534@gmail.com**
 
 - ⚡ Loves **Problem Solving and Competitive Programming ;D**
 
