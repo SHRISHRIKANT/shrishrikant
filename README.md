@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for **Intenships**
 
-- 👨‍💻 All of my projects are available at [(https://shrikant-d.web.app/)](https://shrikant-d.web.app/)
+- 👨‍💻 All of my projects are available at [(https://shrishrikant.github.io/)](shrishrikant.github.io)
 
 - 📫 How to reach me **shrikantdandge534@gmail.com**
 
